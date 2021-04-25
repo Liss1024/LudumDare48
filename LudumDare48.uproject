@@ -176,10 +176,6 @@
 		{
 			"Name": "MobileLauncherProfileWizard",
 			"Enabled": false
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": true
 		}
 	]
 }
