@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{3acdebb8-16c6-4350-acb1-bfd3c5bc12ad}">
 		<property name="assetPath">
-			<value>cloath 7.wav</value>
+			<value>New Folder/Clothes/cloath 7.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

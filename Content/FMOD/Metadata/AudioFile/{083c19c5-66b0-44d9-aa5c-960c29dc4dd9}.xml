@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{083c19c5-66b0-44d9-aa5c-960c29dc4dd9}">
 		<property name="assetPath">
-			<value>faght might 4.wav</value>
+			<value>New Folder/Hits/Metal/faght might 4.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

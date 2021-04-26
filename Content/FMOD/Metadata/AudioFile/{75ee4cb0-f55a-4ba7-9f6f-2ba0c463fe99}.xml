@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{75ee4cb0-f55a-4ba7-9f6f-2ba0c463fe99}">
 		<property name="assetPath">
-			<value>zomby 5.wav</value>
+			<value>New Folder/Enemies/zomby 5.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

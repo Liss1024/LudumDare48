@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{6d89c933-cea8-4b8b-a7c2-3d87a12713bc}">
 		<property name="assetPath">
-			<value>step frozen L2.wav</value>
+			<value>New Folder/Footsteps/step frozen L2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

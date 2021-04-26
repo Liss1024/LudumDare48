@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{0aeaa16a-7b79-4ff2-b163-1b938bf25b9f}">
 		<property name="assetPath">
-			<value>gg death.wav</value>
+			<value>New Folder/Hits/gg death.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

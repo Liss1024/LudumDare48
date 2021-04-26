@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{181b7ebf-96b8-415e-bdaf-2cb77e8c4fef}">
 		<property name="assetPath">
-			<value>wind 2/storm.wav</value>
+			<value>New Folder/wind 2/storm.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

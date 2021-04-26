@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{0778455d-1737-44a0-b1b7-8ca836d8f121}">
 		<property name="assetPath">
-			<value>weapon metal 1.wav</value>
+			<value>New Folder/WeaponFX/weapon metal 1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -38,6 +38,9 @@
 			<destination>{1bc624b5-cd9e-4ea5-bb70-62aaa70ddf07}</destination>
 			<destination>{52560356-14d6-42b4-8617-24f9b3a67437}</destination>
 		</relationship>
+		<relationship name="banks">
+			<destination>{45d2eb79-2190-4608-bc34-e9b973d76bab}</destination>
+		</relationship>
 	</object>
 	<object class="EventMixer" id="{b9053b8e-bbb7-41d1-a534-b304da5876dc}">
 		<relationship name="masterBus">
@@ -45,9 +48,6 @@
 		</relationship>
 	</object>
 	<object class="MasterTrack" id="{5d69fa53-4e74-4e2e-8487-819644a3f92f}">
-		<property name="uiTrackHeight">
-			<value>28</value>
-		</property>
 		<relationship name="mixerGroup">
 			<destination>{988fb451-69e4-4a53-8254-dff520e46ceb}</destination>
 		</relationship>
@@ -64,15 +64,8 @@
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{1621e59b-67ae-41b4-a4a0-3f57700103bc}" />
-	<object class="MarkerTrack" id="{b585103b-feff-475b-b51a-fbec4b99eb3e}">
-		<property name="uiTrackHeight">
-			<value>100</value>
-		</property>
-	</object>
+	<object class="MarkerTrack" id="{b585103b-feff-475b-b51a-fbec4b99eb3e}" />
 	<object class="GroupTrack" id="{c807ef72-8a19-48c0-a3f1-94dd92bad6b5}">
-		<property name="uiTrackHeight">
-			<value>100</value>
-		</property>
 		<relationship name="modules">
 			<destination>{1c72aa74-02ce-46af-9b43-fb924ba692fb}</destination>
 			<destination>{7f422634-f743-4369-878b-d9784878442e}</destination>
@@ -82,9 +75,6 @@
 		</relationship>
 	</object>
 	<object class="GroupTrack" id="{759259d5-b133-4936-91fc-797fe48d6884}">
-		<property name="uiTrackHeight">
-			<value>100</value>
-		</property>
 		<relationship name="modules">
 			<destination>{4ace3198-0282-4a91-a435-00170382fe32}</destination>
 			<destination>{8f8f66c1-08b9-4e05-ab93-27695995dce6}</destination>
@@ -94,9 +84,6 @@
 		</relationship>
 	</object>
 	<object class="GroupTrack" id="{ab9452cc-d33a-4725-b825-8271acc3ac60}">
-		<property name="uiTrackHeight">
-			<value>100</value>
-		</property>
 		<relationship name="modules">
 			<destination>{4195e6c5-c031-4f4b-9d77-890ecf7bd766}</destination>
 		</relationship>
@@ -105,9 +92,6 @@
 		</relationship>
 	</object>
 	<object class="GroupTrack" id="{8b2275f0-69d3-4531-8eaa-ed23ed07b718}">
-		<property name="uiTrackHeight">
-			<value>100</value>
-		</property>
 		<relationship name="modules">
 			<destination>{5fb05789-62ef-4b20-ba09-d730ad23b219}</destination>
 		</relationship>

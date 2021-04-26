@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{7da47149-289c-4353-b444-192625ac6764}">
 		<property name="assetPath">
-			<value>folly 4.wav</value>
+			<value>New Folder/Enviroment/folly 4.wav</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>

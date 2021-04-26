@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{9c603f83-c9d4-4470-bd4f-334407e5bd2e}">
 		<property name="assetPath">
-			<value>groan.wav</value>
+			<value>New Folder/Enemies/groan.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

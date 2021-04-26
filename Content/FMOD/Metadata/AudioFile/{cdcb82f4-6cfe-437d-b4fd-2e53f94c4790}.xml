@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{cdcb82f4-6cfe-437d-b4fd-2e53f94c4790}">
 		<property name="assetPath">
-			<value>metal 2 blow 8.wav</value>
+			<value>New Folder/Hits/Metal/metal 2 blow 8.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

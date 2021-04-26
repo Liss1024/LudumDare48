@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{e757bebb-3b85-41f0-a4c9-d41a2168e8f1}">
 		<property name="assetPath">
-			<value>step stone L2.wav</value>
+			<value>New Folder/Footsteps/step stone L2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{006becc5-1a47-4e26-bbe5-841c9f0cb99f}">
 		<property name="assetPath">
-			<value>crit damage 1.wav</value>
+			<value>New Folder/Hits/crit damage 1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>

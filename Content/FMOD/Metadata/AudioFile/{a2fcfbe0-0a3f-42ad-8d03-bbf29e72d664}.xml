@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
+<objects serializationModel="Studio.02.01.00">
 	<object class="AudioFile" id="{a2fcfbe0-0a3f-42ad-8d03-bbf29e72d664}">
 		<property name="assetPath">
-			<value>bone crack 1.wav</value>
+			<value>New Folder/Hits/bone crack 1.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>44.0999985</value>
