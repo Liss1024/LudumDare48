@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{397ad84a-abff-4829-a8b7-bd86ee0578a4}">
+		<property name="name">
+			<value>monster voice</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6bda16c6-02ce-4adb-9b7d-f4f09a0272f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{e40a184a-5af2-4265-b292-d48d42353931}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{e40a184a-5af2-4265-b292-d48d42353931}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

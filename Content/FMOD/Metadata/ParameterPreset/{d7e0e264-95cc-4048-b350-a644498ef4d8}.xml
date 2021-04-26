@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{d7e0e264-95cc-4048-b350-a644498ef4d8}">
+		<property name="name">
+			<value>monster atack</value>
+		</property>
+		<relationship name="folder">
+			<destination>{6bda16c6-02ce-4adb-9b7d-f4f09a0272f5}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{4d0ecb3a-ecb9-4d5f-a043-900ceb6ca233}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{4d0ecb3a-ecb9-4d5f-a043-900ceb6ca233}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

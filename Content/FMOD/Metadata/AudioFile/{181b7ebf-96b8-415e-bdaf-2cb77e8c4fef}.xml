@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{181b7ebf-96b8-415e-bdaf-2cb77e8c4fef}">
+		<property name="assetPath">
+			<value>wind 2/storm.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>81.719999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a3ee3a5d-af9f-4651-bf86-6a9a3cf9d0c4}</destination>
+		</relationship>
+	</object>
+</objects>

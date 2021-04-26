@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{af773549-98f3-4561-bb5f-394877624718}">
+		<property name="assetPath">
+			<value>fire 2.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>11.86766439909297</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a3ee3a5d-af9f-4651-bf86-6a9a3cf9d0c4}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="Bank" id="{b625e1a6-a27a-4fa2-8b7e-7e1bc26f9793}">
+		<property name="name">
+			<value>GG</value>
+		</property>
+		<relationship name="folder">
+			<destination>{2f6a1c87-527c-45c8-880d-aff2563d1ded}</destination>
+		</relationship>
+		<relationship name="audioTable">
+			<destination>{3b2f7fab-4182-4b36-a093-50b5b40a6e4a}</destination>
+		</relationship>
+	</object>
+	<object class="AudioTable" id="{3b2f7fab-4182-4b36-a093-50b5b40a6e4a}">
+		<property name="name">
+			<value>fight</value>
+		</property>
+	</object>
+</objects>

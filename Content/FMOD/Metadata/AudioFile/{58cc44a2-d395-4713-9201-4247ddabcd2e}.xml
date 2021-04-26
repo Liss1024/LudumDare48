@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{58cc44a2-d395-4713-9201-4247ddabcd2e}">
+		<property name="assetPath">
+			<value>water blow.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>30.642675736961451</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a3ee3a5d-af9f-4651-bf86-6a9a3cf9d0c4}</destination>
+		</relationship>
+	</object>
+</objects>
